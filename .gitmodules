@@ -1,17 +1,18 @@
-[submodule "external/diffusion_policy"]
-	path = external/diffusion_policy
-	url = git@github.com:real-stanford/diffusion_policy.git
-[submodule "external/lelan"]
-	path = external/lelan
-	url = git@github.com:yjy0625/mobipi-lelan.git
-[submodule "external/robocasa"]
-	path = external/robocasa
-	url = git@github.com:yjy0625/mobipi-robocasa.git
-[submodule "external/mimicgen"]
-	path = external/mimicgen
-    url = git@github.com:yjy0625/mobipi-mimicgen.git
-    branch = mobipi
-[submodule "external/robomimic"]
-	path = external/robomimic
-    url = git@github.com:yjy0625/mobipi-robomimic.git
-    branch = robocasa
+# comment since we just need mobipi core design for benchmark and will use our own env and 3dparty package.
+# [submodule "external/diffusion_policy"]
+# 	path = external/diffusion_policy
+# 	url = git@github.com:real-stanford/diffusion_policy.git
+# [submodule "external/lelan"]
+# 	path = external/lelan
+# 	url = git@github.com:yjy0625/mobipi-lelan.git
+# [submodule "external/robocasa"]
+# 	path = external/robocasa
+# 	url = git@github.com:yjy0625/mobipi-robocasa.git
+# [submodule "external/mimicgen"]
+# 	path = external/mimicgen
+#     url = git@github.com:yjy0625/mobipi-mimicgen.git
+#     branch = mobipi
+# [submodule "external/robomimic"]
+# 	path = external/robomimic
+#     url = git@github.com:yjy0625/mobipi-robomimic.git
+#     branch = robocasa
